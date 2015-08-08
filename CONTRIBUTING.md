@@ -16,5 +16,8 @@ If you would like to contribute to any of these lists (please do), then just [in
 - I recommend the following format for commit message to keep things easy to track: `Adding [data|blog|book] by <author> <year published> `. For example `Adding blog by Fuge 2015` or `Adding data by Campbell 2013`.
 - After you add your contribution, make sure the list remains alphabetical (within each heading section).
 
+# Contributors
+
+* [Mark Fuge](https://ideal.umd.edu)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />All contributions to this are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
