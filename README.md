@@ -22,6 +22,7 @@ This file lists data or software sources, but you might also be interested in De
 - [GraphSynth](http://designengrlab.github.io/GraphSynth/) - C# library for graph grammars
 - [PMKS: Planar Mechanism Kinematic Simulator](https://github.com/DesignEngrLab/PMKS) - Planar Kinematics; part of the [MechSynth](https://rkprad.wordpress.com/research/mechsynth/)
 - [Booggie](http://sourceforge.net/projects/booggie/) - Object-Oriented Graph Grammars
+- [Design Embeddings](https://github.com/IDEALLab/design_embeddings_idetc_2016) - code for exploring design space and understanding design complexity
 
 <a name="#cognition" />
 # Design Cognition, Behavior, and Creativity
